@@ -1,0 +1,42 @@
+
+*) Request URL
+https://localhost:7198/api/Passengers
+
+[
+  {
+    "PassengerId": 1,
+    "Name": "Yao01",
+    "Job": "Software developer",
+    "Email": "email01",
+    "Age": 15,
+    "confirmation": "ABCDE12345",
+    "Flights": []
+  },
+  {
+    "PassengerId": 2,
+    "Name": "Yao02",
+    "Job": "Software developer",
+    "Email": "email02",
+    "Age": 15,
+    "confirmation": "ABCDE12345",
+    "Flights": []
+  },
+  {
+    "PassengerId": 3,
+    "Name": "Yao03",
+    "Job": "Software developer",
+    "Email": "email03",
+    "Age": 15,
+    "confirmation": "ABCDE12345",
+    "Flights": []
+  },
+  {
+    "PassengerId": 4,
+    "Name": "Yao04",
+    "Job": "Software developer",
+    "Email": "email04",
+    "Age": 15,
+    "confirmation": "ABCDE12345",
+    "Flights": []
+  }
+]

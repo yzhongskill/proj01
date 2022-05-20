@@ -1,0 +1,17 @@
+
+*) Request URL
+https://localhost:7198/api/Flights
+
+
+  {
+    "FlightNumber": "1111",
+    "DepartAirport": "AAL",
+    "DepartTime": "2021-12-31T05:01:20",
+    "ArriveAirport": "AAR",
+    "ArriveTime": "2021-12-31T07:01:25",
+    "PassengerLimit": 50,
+    "Passengers": [],
+    "DateAdded": "0001-01-01T00:00:00",
+    "DateModified": "0001-01-01T00:00:00"
+  }
+  

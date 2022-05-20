@@ -1,0 +1,15 @@
+
+*) Request URL
+https://localhost:7198/api/Reservations/1/Flight/2
+
+
+  {
+  "Number": "00000000-0000-0000-0000-000000000000",
+  "PassengerId": 1,
+  "Passenger": null,
+  "FlightId": 2,
+  "Flight": null,
+  "DateAdded": "0001-01-01T00:00:00",
+  "DateModified": "0001-01-01T00:00:00"
+}
+  

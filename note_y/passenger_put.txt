@@ -1,0 +1,19 @@
+
+*) Request URL
+'https://localhost:7198/api/Passengers/7'
+
+id: 7
+
+
+{
+"PassengerId": 7,
+"Name": "Yao07",
+    "Job": "Software_developer7",
+    "Email": "email07",
+    "Age": 17,
+    "confirmation": "ABCDE12347",
+"Flights": []
+}
+
+Flights: put_Flights.current.value
+

@@ -1,0 +1,14 @@
+
+*) Request URL
+https://localhost:7198/api/Passengers
+
+
+  {
+    "Name": "Yao05",
+    "Job": "Software developer5",
+    "Email": "email05",
+    "Age": 15,
+    "confirmation": "5BCDE12345",
+    "Flights": []
+  }
+  

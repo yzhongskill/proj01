@@ -1,0 +1,16 @@
+
+*) flight project:
+
+https://localhost:7198/swagger/index.html
+
+*) 
+https://localhost:7198/api/Passengers
+
+json data:
+
+[{"passengerId":1,"name":"Yao01","job":"Software developer","email":"email01","age":15,"confirmation":"ABCDE12345","flights":[]},{"passengerId":2,"name":"Yao02","job":"Software developer","email":"email02","age":15,"confirmation":"ABCDE12345","flights":[]},{"passengerId":3,"name":"Yao03","job":"Software developer","email":"email03","age":15,"confirmation":"ABCDE12345","flights":[]},{"passengerId":4,"name":"Yao04","job":"Software developer","email":"email04","age":15,"confirmation":"ABCDE12345","flights":[]}]
+
+*) 
+https://localhost:7198/api/Flights
+
+
