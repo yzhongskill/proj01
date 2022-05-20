@@ -1,0 +1,58 @@
+
+-------------- I. Passenger View/Add/Update/Delete --------------
+
+1) View passengers:
+
+	Link: http://localhost:3000/passengers
+
+2) Add a passenger:
+
+   12	Daniel	Wilson	School Principal	DanielLopez@gmail.com	61	
+
+3) Modify a passenger:
+
+   15	Mark	Anderson	Art Instructor	MarkAnderson@hotmail.com	58	
+
+4) delete the newly added passenger:
+
+   15	Mark	Anderson	Art Instructor	MarkAnderson@hotmail.com	58	
+   
+   
+-------------- II. Flight View/Add/Update/Delete --------------
+
+1) View flights:
+
+	Link: http://localhost:3000/flights
+
+2) Add a flight:
+
+   11  3012  ABV  2022-05-21T03:00:00  ACA  2022-05-21T06:00:00  90        
+
+3) Modify a flight:
+
+   12  3501  ACA 2022-05-22T03:00:00  BHD 2022-05-22T06:00:00 120	
+
+4) delete the newly added flight:
+
+   12  3501  ACA 2022-05-22T03:00:00  BHD 2022-05-22T06:00:00 120
+   
+-------------- III. Book a Flight --------------
+
+1) Select a passenger:
+
+	Booking: (passengerId: 4, Michael, Brown) -> (FlightId: 3, 1359, AAR)
+
+2) Select a flight:
+
+   Booking: (passengerId: 4, Michael, Brown) -> (FlightId: 3, 1359, AAR)  
+
+3) Show over passenger limit:
+
+   Booking: (passengerId: 5, David, Jones) -> (FlightId: 3, 1359, AAR)
+   
+   Already booked: 
+           (passengerId: 3, John, Williams) -> (FlightId: 3, 1359, AAR)
+           (passengerId: 4, Michael, Brown) -> (FlightId: 3, 1359, AAR)
+		   
+   Result: Can't add any passenger to the flight.
+

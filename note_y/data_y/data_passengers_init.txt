@@ -10,9 +10,9 @@ PassengerId	FirstName	LastName	Job	Email	Age	DateAdded	DateModified
 9	Thomas	Rodriguez	Educator	ThomaRodriguez@gmail.com	51		
 10	Charles	Martinez	English Teacher	CharlesMartinez@gmail.com	32		
 11	Christopher	Hernandez	Hall Director	ChristopherHernandez@gmail.com	45		
-12	Daniel	Lopez	School Principal	DanielLopez@gmail.com	61		
+12	Daniel	Wilson	School Principal	DanielLopez@gmail.com	61		
 13	Matthew	Gonzalez	Web Developer	MatthewGonzalez@gmail.com	18		
-14	Anthony	Wilson	College Instructor	AnthonyWilson@hotmail.com	17		
+14	Anthony	Lopez	College Instructor	AnthonyWilson@hotmail.com	17		
 15	Mark	Anderson	Art Instructor	MarkAnderson@hotmail.com	27		
 16	Donald	Thomas	School Secretary	DonaldThomas@hotmail.com	39		
 17	Steven	Taylor	School Teacher	StevenTaylor@hotmail.com	56		

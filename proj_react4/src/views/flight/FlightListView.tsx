@@ -42,7 +42,7 @@ export class FlightListView extends React.Component<FlightListViewProps> {
                 <table className="table table-striped table-bordered table-hover table-highlight">
                     <thead>
                         <tr>
-                            <th>Order</th>
+                            <th>Flight Id</th>
                             <th>Flight Number</th>
                             <th>Depart Airport</th>
                             <th>Depart Time</th>

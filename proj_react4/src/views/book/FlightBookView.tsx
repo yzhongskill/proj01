@@ -24,7 +24,7 @@ function FlightBookView(props: { flights: Flight[]; }) {
     const domain = window.location.hostname;
     const port = window.location.port;
     const full = `${protocol}//${domain}:${port? port : ""}`
-    const url_flights = `${full}/Flights`
+    const url_flights = `${full}/passengersBook`
 
     // const [count, setCount] = useState(0);
     const [passId, setPassId] = useState(0);
@@ -79,7 +79,7 @@ function FlightBookView(props: { flights: Flight[]; }) {
             <table className="table table-striped table-bordered table-hover table-highlight">
                 <thead>
                     <tr>
-                        <th>Order</th>
+                        <th>Flight Id</th>
                         <th>Flight Number</th>
                         <th>Depart Airport</th>
                         <th>Depart Time</th>
